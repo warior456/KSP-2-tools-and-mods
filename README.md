@@ -14,7 +14,7 @@ We currently only use the readme
 
 ## Mod Loaders
 - [SpaceWarp](https://github.com/X606/SpaceWarp) by X606
-- [BepInEx](https://github.com/BepInEx/BepInEx) by bbepis
+- [BepInEx](https://spacedock.info/mod/3255/BepInEx%20for%20KSP%202) by bbepis
 
 ## Mods
 - [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
