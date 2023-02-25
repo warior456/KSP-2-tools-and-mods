@@ -12,7 +12,7 @@ If you want to add/remove a mod/tool, feel free to just make a pull request
 
 ## Mod Loaders
 - [SpaceWarp](https://github.com/X606/SpaceWarp) by X606
-- [BepInEx for KSP 2](https://github.com/BepInEx/BepInEx)
+- [BepInEx](https://github.com/BepInEx/BepInEx) by bbepis
 
 ## Mods
 - [ExampleMod]() by ExampleMod
