@@ -6,19 +6,16 @@ Stuff will almost certainly break over time, so if you find anything it'd be gre
 If you want to add/remove a mod/tool, feel free to just make a pull request
 
 ## Contents
-- Mod Loaders
-- Mods
-- Tools
+- [Mod Loaders](#mod-loaders)
+- [Mods](#mods)
+- [Tools](#tools)
 
-Mod Loaders
----------
+## Mod Loaders
 - [SpaceWarp](https://github.com/X606/SpaceWarp) by X606
 - [BepInEx for KSP 2](https://github.com/BepInEx/BepInEx)
 
-Mods
----------
+## Mods
 - [ExampleMod]() by ExampleMod
 
-Tools
----------
+## Tools
 - [KSP2 Save Viewer](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
