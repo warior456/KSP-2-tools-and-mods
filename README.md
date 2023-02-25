@@ -18,6 +18,7 @@ We currently only use the readme
 
 ## Mods
 - [ExampleMod]() by ExampleMod
+- [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
 
 ## Tools
 - [KSP2 Save Viewer](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
