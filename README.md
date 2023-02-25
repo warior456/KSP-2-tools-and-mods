@@ -17,7 +17,6 @@ We currently only use the readme
 - [BepInEx](https://github.com/BepInEx/BepInEx) by bbepis
 
 ## Mods
-- [ExampleMod]() by ExampleMod
 - [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
 
 ## Tools
