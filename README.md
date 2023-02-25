@@ -21,6 +21,7 @@ We currently only use the readme
 - [KSP Simple Steam Launch](https://github.com/R-T-B/KSSL) by R-T-B
 - [Lazy Orbit](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
 - [FPS Limiter](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
+- [Rendezvous Cheat](https://github.com/ABritInSpace/RendezvousCheat-KSP2) by ABritInSpace
 
 ## Tools
 - [KSP2 Save Viewer](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
