@@ -13,14 +13,14 @@ We currently only use the readme
 - [Tools](#tools)
 
 ## Mod Loaders
-- [SpaceWarp](https://github.com/X606/SpaceWarp) by X606
 - [BepInEx](https://spacedock.info/mod/3255/BepInEx%20for%20KSP%202) by bbepis
+- [SpaceWarp](https://github.com/X606/SpaceWarp) by X606
 
 ## Mods
-- [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
-- [KSP Simple Steam Launch](https://github.com/R-T-B/KSSL) by R-T-B
-- [Lazy Orbit](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
 - [FPS Limiter](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
+- [KSP Simple Steam Launch](https://github.com/R-T-B/KSSL) by R-T-B
+- [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
+- [Lazy Orbit](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
 - [Rendezvous Cheat](https://github.com/ABritInSpace/RendezvousCheat-KSP2) by ABritInSpace
 
 ## Tools
