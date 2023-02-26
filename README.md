@@ -19,6 +19,7 @@ We currently only use the readme
 ## Mods
 
 - [Custom Flags](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
+- [CustomFlagLoader](https://forum.kerbalspaceprogram.com/index.php?/topic/212988-customflagloader-load-custom-flags/) by bbepis
 - [FPS Limiter](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
 - [Kerbal Joint Re-Reinforcement](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
 - [KSP Simple Steam Launch](https://github.com/R-T-B/KSSL) by R-T-B
