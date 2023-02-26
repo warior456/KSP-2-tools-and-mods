@@ -24,6 +24,7 @@ We currently only use the readme
 - [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
 - [Lazy Orbit](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
 - [Rendezvous Cheat](https://github.com/ABritInSpace/RendezvousCheat-KSP2) by ABritInSpace
+- [Small Dedug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
 
 
 ## Tools
