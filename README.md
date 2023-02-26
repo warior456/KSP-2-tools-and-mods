@@ -13,7 +13,7 @@ We currently only use the readme
 - [Tools](#tools)
 
 ## Mod Loaders
-- [BepInEx](https://spacedock.info/mod/3255/BepInEx%20for%20KSP%202) by bbepis
+- ![BepInEx](https://img.shields.io/badge/BepInEx-Loader-yellow) [BepInEx](https://spacedock.info/mod/3255/BepInEx%20for%20KSP%202) by bbepis
 - [SpaceWarp](https://github.com/X606/SpaceWarp) by X606
 
 ## Mods
@@ -33,5 +33,4 @@ We currently only use the readme
 
 ## Tools
 - [KSP2 Save Viewer](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
-- ![VS Code](https://img.shields.io/badge/VS%20Code-text%20editor-blue) [Visual Studio Code](https://code.visualstudio.com/) 
-- ![GitKraken](https://img.shields.io/badge/GitKraken-git%20client-green) [GitKraken](https://www.gitkraken.com/) 
+#- ![GitKraken](https://img.shields.io/badge/GitKraken-git%20client-green) [GitKraken](https://www.gitkraken.com/) 
