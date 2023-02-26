@@ -33,4 +33,3 @@ We currently only use the readme
 
 ## Tools
 - [KSP2 Save Viewer](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
-#- ![GitKraken](https://img.shields.io/badge/GitKraken-git%20client-green) [GitKraken](https://www.gitkraken.com/) 
