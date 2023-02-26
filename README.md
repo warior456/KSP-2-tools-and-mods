@@ -17,6 +17,7 @@ We currently only use the readme
 - [SpaceWarp](https://github.com/X606/SpaceWarp) by X606
 
 ## Mods
+- [Custom Flags](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
 - [FPS Limiter](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
 - [Kerbal Joint Re-Reinforcement](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
 - [KSP Simple Steam Launch](https://github.com/R-T-B/KSSL) by R-T-B
