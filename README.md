@@ -33,3 +33,5 @@ We currently only use the readme
 
 ## Tools
 - [KSP2 Save Viewer](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
+- [Visual Studio Code](https://code.visualstudio.com/) ![VS Code](https://img.shields.io/badge/VS%20Code-text%20editor-blue)
+- [GitKraken](https://www.gitkraken.com/) ![GitKraken](https://img.shields.io/badge/GitKraken-git%20client-green)
