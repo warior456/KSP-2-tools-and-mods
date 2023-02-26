@@ -25,8 +25,9 @@ We currently only use the readme
 - [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
 - [Lazy Orbit](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
 - [Rendezvous Cheat](https://github.com/ABritInSpace/RendezvousCheat-KSP2) by ABritInSpace
-- [Sticky Orbit Markers](https://spacedock.info/mod/3264/Sticky%20Orbit%20Markers) by munix
 - [Small Dedug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
+- [SpaceWarp loader for BepInEx](https://spacedock.info/mod/3265/SpaceWarp%20loader%20for%20BepInEx) by bbepis
+- [Sticky Orbit Markers](https://spacedock.info/mod/3264/Sticky%20Orbit%20Markers) by munix
 
 
 ## Tools
