@@ -7,11 +7,6 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
 
 We currently only use the readme
 
-## Contents
-- [Mod Loaders](#mod-loaders)
-- [Mods](#mods)
-- [Tools](#tools)
-
 ## Mod Loaders
 - ![BepInEx](https://img.shields.io/badge/BepInEx-Loader-yellow) [BepInEx](https://spacedock.info/mod/3255/BepInEx%20for%20KSP%202) by bbepis
 - [SpaceWarp](https://github.com/X606/SpaceWarp) by X606
