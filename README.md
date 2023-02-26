@@ -17,7 +17,7 @@ We currently only use the readme
 - [SpaceWarp](https://github.com/X606/SpaceWarp) by X606
 
 ## Mods
-- [Sticky Orbit Markers](https://spacedock.info/mod/3264/Sticky%20Orbit%20Markers)
+
 - [Custom Flags](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
 - [FPS Limiter](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
 - [Kerbal Joint Re-Reinforcement](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
@@ -25,7 +25,8 @@ We currently only use the readme
 - [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
 - [Lazy Orbit](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
 - [Rendezvous Cheat](https://github.com/ABritInSpace/RendezvousCheat-KSP2) by ABritInSpace
-- [Small Dedug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
+- [Sticky Orbit Markers](https://spacedock.info/mod/3264/Sticky%20Orbit%20Markers) by munix
+- [Small Dedug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
 
 
 ## Tools
