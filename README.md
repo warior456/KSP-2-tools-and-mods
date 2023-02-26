@@ -23,6 +23,7 @@ We currently only use the readme
 - [Lazy Orbit](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
 - [Rendezvous Cheat](https://github.com/ABritInSpace/RendezvousCheat-KSP2) by ABritInSpace
 - [Kerbal Joint Re-Reinforcement](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
+- [Small Dedug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
 
 ## Tools
 - [KSP2 Save Viewer](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
