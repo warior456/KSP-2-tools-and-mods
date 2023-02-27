@@ -9,7 +9,7 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
 
 We currently only use the readme
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/warior456/KSP-2-tools-and-mods)](https://github.com/USERNAME/REPOSITORY/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/warior456/KSP-2-tools-and-mods)](https://github.com/warior456/KSP-2-tools-and-mods/commits/main)
 
 ## Contents
 - [![Mod Loaders](https://img.shields.io/badge/Mod_Loaders-red)](#mod-loaders)
@@ -43,6 +43,6 @@ We currently only use the readme
 
 
 ## Tools
-- [![Tool](https://img.shields.io/badge/Tool-KSP2_Save_Viewer-blue)](https://github.com/Rodentman87/KSP2_Save_Viewer/releases) by Rodentman87
+- [![Tool](https://img.shields.io/badge/Tool-KSP2_Save_Viewer-blue)](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
 
 
