@@ -24,6 +24,7 @@ We currently only use the readme
 - [CustomFlagLoader](https://forum.kerbalspaceprogram.com/index.php?/topic/212988-customflagloader-load-custom-flags/) by bbepis
 - [FPS Limiter](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
 - [Kerbal Joint Re-Reinforcement](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
+- [Kerbal Optimization Program (KOPMod)](https://github.com/elsantiF/KOPMod/releases/tag/0.1) by elsantiF
 - [KSP2-IVA](https://github.com/Mudkip909/KSP2-IVA) by Mudkip909
 - [KSP Simple Steam Launch](https://github.com/R-T-B/KSSL) by R-T-B
 - [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
