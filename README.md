@@ -35,6 +35,7 @@ We currently only use the readme
 - [Rendezvous Cheat](https://github.com/ABritInSpace/RendezvousCheat-KSP2) by ABritInSpace
 - [Small Debug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
 - [SpaceWarp loader for BepInEx](https://spacedock.info/mod/3265/SpaceWarp%20loader%20for%20BepInEx) by bbepis
+- [StageInfo](https://spacedock.info/mod/3272/Stage%20Info) by natalia_simonova
 - [Sticky Orbit Markers](https://spacedock.info/mod/3264/Sticky%20Orbit%20Markers) by munix
 - [Unity Explorer for Space Warp](https://spacedock.info/mod/3268/Unity%20Explorer%20for%20Space%20Warp) by cheese3660
 
