@@ -22,24 +22,24 @@ We currently only use the readme
 
 ## Mods
 - [![Mod](https://img.shields.io/badge/Mod-Cheat_Menu-green)](https://spacedock.info/mod/3266/Cheats%20Menu) by ShadowDev
-- [![Mod](https://img.shields.io/badge/Mod-Custom_Flags-green)](https://spacedock.info/mod/1719/Custom%20Flags) by adamsogm
-- [![Mod](https://img.shields.io/badge/Mod-CustomFlagLoader-green)](https://spacedock.info/mod/1374/CustomFlagLoader) by bbepis
-- [![Mod](https://img.shields.io/badge/Mod-FPS_Limiter-green)](https://spacedock.info/mod/337/FPS%20Limiter) by innocuous
-- [![Mod](https://img.shields.io/badge/Mod-Kerbal_Joint_Re--Reinforcement-green)](https://spacedock.info/mod/261/Kerbal%20Joint%20Reinforcement%20Continued) by Penumbra
-- [![Mod](https://img.shields.io/badge/Mod-Kerbal_Optimization_Program_(KOPMod)-green)](https://spacedock.info/mod/398/Kerbal%20Optimization%20Program) by elsantiF
-- [![Mod](https://img.shields.io/badge/Mod-KSP2--IVA-green)](https://spacedock.info/mod/2928/KSP2--IVA) by Mudkip909
-- [![Mod](https://img.shields.io/badge/Mod-KSP_Simple_Steam_Launch-green)](https://spacedock.info/mod/500/KSP%20Simple%20Steam%20Launch) by R-T-B
-- [![Mod](https://img.shields.io/badge/Mod-LagRemover-green)](https://spacedock.info/mod/51/Lag%20Remover) by RadioArtz
-- [![Mod](https://img.shields.io/badge/Mod-Lazy_Orbit-green)](https://spacedock.info/mod/238/Lazy%20Orbit) by Halban
-- [![Mod](https://img.shields.io/badge/Mod-Less_Wobbly-green)](https://spacedock.info/mod/225/Less%20Wobbly) by linuxgurugamer
-- [![Mod](https://img.shields.io/badge/Mod-Maneuver_Node_Controller-green)](https://spacedock.info/mod/165/Maneuver%20Node%20Controller) by XYZ3211
-- [![Mod](https://img.shields.io/badge/Mod-NotEnoughShips-green)](https://spacedock.info/mod/33/Not%20Enough%20Ships) by Xeloboyo
-- [![Mod](https://img.shields.io/badge/Mod-Rendezvous_Cheat-green)](https://spacedock.info/mod/240/Rendezvous%20Cheat) by ABritInSpace
-- [![Mod](https://img.shields.io/badge/Mod-Small_Debug_Window-green)](https://spacedock.info/mod/695/Small%20Debug%20Window) by sea_x
-- [![Mod](https://img.shields.io/badge/Mod-SpaceWarp_loader_for_BepInEx-green)](https://spacedock.info/mod/2745/Space%20Warp) by bbepis
+- [![Mod](https://img.shields.io/badge/Mod-Custom_Flags-green)](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
+- [![Mod](https://img.shields.io/badge/Mod-CustomFlagLoader-green)](https://forum.kerbalspaceprogram.com/index.php?/topic/212988-customflagloader-load-custom-flags/) by bbepis
+- [![Mod](https://img.shields.io/badge/Mod-FPS_Limiter-green)](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
+- [![Mod](https://img.shields.io/badge/Mod-Kerbal_Joint_Re--Reinforcement-green)](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
+- [![Mod](https://img.shields.io/badge/Mod-Kerbal_Optimization_Program_(KOPMod)-green)](https://github.com/elsantiF/KOPMod/releases/tag/0.1) by elsantiF
+- [![Mod](https://img.shields.io/badge/Mod-KSP2--IVA-green)](https://github.com/Mudkip909/KSP2-IVA) by Mudkip909
+- [![Mod](https://img.shields.io/badge/Mod-KSP_Simple_Steam_Launch-green)](https://github.com/R-T-B/KSSL) by R-T-B
+- [![Mod](https://img.shields.io/badge/Mod-LagRemover-green)](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
+- [![Mod](https://img.shields.io/badge/Mod-Lazy_Orbit-green)](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
+- [![Mod](https://img.shields.io/badge/Mod-Less_Wobbly-green)](https://spacedock.info/mod/3267/Less%20Wobbly) by linuxgurugamer
+- [![Mod](https://img.shields.io/badge/Mod-Maneuver_Node_Controller-green)](https://spacedock.info/mod/3270/Maneuver%20Node%20Controller) by XYZ3211
+- [![Mod](https://img.shields.io/badge/Mod-NotEnoughShips-green)](https://github.com/Xeloboyo/NotEnoughShips) by Xeloboyo
+- [![Mod](https://img.shields.io/badge/Mod-Rendezvous_Cheat-green)](https://github.com/ABritInSpace/RendezvousCheat-KSP2) by ABritInSpace
+- [![Mod](https://img.shields.io/badge/Mod-Small_Debug_Window-green)](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
+- [![Mod](https://img.shields.io/badge/Mod-SpaceWarp_loader_for_BepInEx-green)](https://spacedock.info/mod/3265/SpaceWarp%20loader%20for%20BepInEx) by bbepis
 - [![Mod](https://img.shields.io/badge/Mod-StageInfo-green)](https://spacedock.info/mod/3272/Stage%20Info) by natalia_simonova
-- [![Mod](https://img.shields.io/badge/Mod-Sticky_Orbit_Markers-green)](https://spacedock.info/mod/724/Sticky%20Orbit%20Markers) by munix
-- [![Mod](https://img.shields.io/badge/Mod-Unity_Explorer_for_Space_Warp-green)](https://spacedock.info/mod/2655/Unity%20Explorer%20for%20SpaceWarp) by cheese3660
+- [![Mod](https://img.shields.io/badge/Mod-Sticky_Orbit_Markers-green)](https://spacedock.info/mod/3264/Sticky%20Orbit%20Markers) by munix
+- [![Mod](https://img.shields.io/badge/Mod-Unity_Explorer_for_Space_Warp-green)](https://spacedock.info/mod/3268/Unity%20Explorer%20for%20Space%20Warp) by cheese3660
 
 
 ## Tools
