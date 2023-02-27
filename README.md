@@ -43,6 +43,5 @@ We currently only use the readme
 - [![Mod](https://img.shields.io/badge/Mod-Sticky_Orbit_Markers-green)](https://spacedock.info/mod/3264/Sticky%20Orbit%20Markers) by munix
 - [![Mod](https://img.shields.io/badge/Mod-Unity_Explorer_for_Space_Warp-green)](https://spacedock.info/mod/3268/Unity%20Explorer%20for%20Space%20Warp) by cheese3660
 
-
 ## Tools
 - [![Tool](https://img.shields.io/badge/Tool-KSP2_Save_Viewer-blue)](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
