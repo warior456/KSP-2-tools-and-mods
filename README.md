@@ -30,6 +30,7 @@ We currently only use the readme
 - [Lazy Orbit](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
 - [Less Wobbly](https://spacedock.info/mod/3267/Less%20Wobbly) by linuxgurugamer
 - [Maneuver Node Controller](https://spacedock.info/mod/3270/Maneuver%20Node%20Controller) by XYZ3211
+- [NotEnoughShips](https://github.com/Xeloboyo/NotEnoughShips) by Xeloboyo
 - [Rendezvous Cheat](https://github.com/ABritInSpace/RendezvousCheat-KSP2) by ABritInSpace
 - [Small Debug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
 - [SpaceWarp loader for BepInEx](https://spacedock.info/mod/3265/SpaceWarp%20loader%20for%20BepInEx) by bbepis
