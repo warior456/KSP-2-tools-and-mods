@@ -37,9 +37,12 @@ We currently only use the readme
 - [![Mod](https://img.shields.io/badge/Mod-Rendezvous_Cheat-green)](https://spacedock.info/mod/240/Rendezvous%20Cheat) by ABritInSpace
 - [![Mod](https://img.shields.io/badge/Mod-Small_Debug_Window-green)](https://spacedock.info/mod/695/Small%20Debug%20Window) by sea_x
 - [![Mod](https://img.shields.io/badge/Mod-SpaceWarp_loader_for_BepInEx-green)](https://spacedock.info/mod/2745/Space%20Warp) by bbepis
+- [![Mod](https://img.shields.io/badge/Mod-StageInfo-green)](https://spacedock.info/mod/3272/Stage%20Info) by natalia_simonova
 - [![Mod](https://img.shields.io/badge/Mod-Sticky_Orbit_Markers-green)](https://spacedock.info/mod/724/Sticky%20Orbit%20Markers) by munix
 - [![Mod](https://img.shields.io/badge/Mod-Unity_Explorer_for_Space_Warp-green)](https://spacedock.info/mod/2655/Unity%20Explorer%20for%20SpaceWarp) by cheese3660
 
 
 ## Tools
 - [![Tool](https://img.shields.io/badge/Tool-KSP2_Save_Viewer-blue)](https://github.com/Rodentman87/KSP2_Save_Viewer/releases) by Rodentman87
+
+
