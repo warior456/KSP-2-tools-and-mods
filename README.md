@@ -3,6 +3,7 @@
 Stuff will almost certainly break over time, so if you find anything it'd be great to tell someone in the [modding discord](https://discord.gg/3D7Yj9SJ8n) or make a pull request fixing it
 
 ## Contributing
+If you know a mod that isn't on the list please let us know or open a pull request
 If you want to add/remove a mod/tool, feel free to just make a pull request or open an issue with the mod/tool name, author and link
 
 We currently only use the readme
@@ -28,6 +29,7 @@ We currently only use the readme
 - [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
 - [Lazy Orbit](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
 - [Less Wobbly](https://spacedock.info/mod/3267/Less%20Wobbly) by linuxgurugamer
+- [Maneuver Node Controller](https://spacedock.info/mod/3270/Maneuver%20Node%20Controller) by XYZ3211
 - [Rendezvous Cheat](https://github.com/ABritInSpace/RendezvousCheat-KSP2) by ABritInSpace
 - [Small Debug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
 - [SpaceWarp loader for BepInEx](https://spacedock.info/mod/3265/SpaceWarp%20loader%20for%20BepInEx) by bbepis
