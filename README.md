@@ -5,6 +5,7 @@ Stuff will almost certainly break over time, so if you find anything it'd be gre
 ![Banner Image](https://i.imgur.com/TURXsC7.jpg)
 
 ## Contributing
+If you find a mod that isn't on the list please let us know or open a pull request <br>
 If you want to add/remove a mod/tool, feel free to just make a pull request or open an issue with the mod/tool name, author and link
 
 We currently only use the readme
@@ -21,6 +22,7 @@ We currently only use the readme
 - [![Loader](https://img.shields.io/badge/Loader-SpaceWarp-red)](https://github.com/X606/SpaceWarp) by the SpaceWarp Team
 
 ## Mods
+
 - [![Mod](https://img.shields.io/badge/Mod-Cheat_Menu-green)](https://spacedock.info/mod/3266/Cheats%20Menu) by ShadowDev
 - [![Mod](https://img.shields.io/badge/Mod-Custom_Flags-green)](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
 - [![Mod](https://img.shields.io/badge/Mod-CustomFlagLoader-green)](https://forum.kerbalspaceprogram.com/index.php?/topic/212988-customflagloader-load-custom-flags/) by bbepis
@@ -44,5 +46,3 @@ We currently only use the readme
 
 ## Tools
 - [![Tool](https://img.shields.io/badge/Tool-KSP2_Save_Viewer-blue)](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
-
-
