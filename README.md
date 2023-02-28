@@ -39,6 +39,7 @@ We currently only use the readme
 - [StageInfo](https://spacedock.info/mod/3272/Stage%20Info) by natalia_simonova
 - [Sticky Orbit Markers](https://spacedock.info/mod/3264/Sticky%20Orbit%20Markers) by munix
 - [Unity Explorer for Space Warp](https://spacedock.info/mod/3268/Unity%20Explorer%20for%20Space%20Warp) by cheese3660
+- [WASD For VAB](https://spacedock.info/mod/3276/WASD%20For%20VAB) by ArchLinus
 
 ## Tools
 - [KSP2 Save Viewer](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
