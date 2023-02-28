@@ -38,6 +38,7 @@ We currently only use the readme
 - [SpaceWarp loader for BepInEx](https://spacedock.info/mod/3265/SpaceWarp%20loader%20for%20BepInEx) by bbepis
 - [StageInfo](https://spacedock.info/mod/3272/Stage%20Info) by natalia_simonova
 - [Sticky Orbit Markers](https://spacedock.info/mod/3264/Sticky%20Orbit%20Markers) by munix
+- [TimeWarpUnlock](https://spacedock.info/mod/3274/TimeWarpUnlock) by miniroo321
 - [Unity Explorer for Space Warp](https://spacedock.info/mod/3268/Unity%20Explorer%20for%20Space%20Warp) by cheese3660
 - [WASD For VAB](https://spacedock.info/mod/3276/WASD%20For%20VAB) by ArchLinus
 
