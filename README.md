@@ -15,10 +15,11 @@ We currently only use the readme
 
 ## Mod Loaders
 - [BepInEx](https://spacedock.info/mod/3255/BepInEx%20for%20KSP%202) by bbepis
-- [SpaceWarp](https://github.com/X606/SpaceWarp) by the SpaceWarp Team
+- [SpaceWarp](https://github.com/X606/SpaceWarp) by The SpaceWarp Team
 
 ## Mods
 
+- [BepInEx Space Warp Plugin](https://spacedock.info/mod/3277/BepInEx%20Space%20Warp%20Plugin) by The SpaceWarp Team
 - [Cheat Menu](https://spacedock.info/mod/3266/Cheats%20Menu) by ShadowDev
 - [Custom Flags](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
 - [CustomFlagLoader](https://forum.kerbalspaceprogram.com/index.php?/topic/212988-customflagloader-load-custom-flags/) by bbepis
