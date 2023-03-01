@@ -4,7 +4,7 @@
 	<meta charset="UTF-8">
 	<title>KSP 2 tools and mods</title>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-	<script src="path/to/jquery.tablesorter.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
 	<script src="script.js"></script>
 	<link rel="stylesheet" href="style.css">
 </head>
@@ -25,11 +25,9 @@
 		<tbody></tbody>
 	</table>
 	<script>
-		$(document).ready(function(){
-			$("#mods-table").tablesorter({
-				theme : 'blue'
-			});
-		});
+	$(function() {
+		$("#mods-table").tablesorter();
+	  });
 	</script>
 </body>
 </html>

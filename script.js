@@ -15,11 +15,7 @@ window.onload = function() {
 				row.innerHTML = "<td>" + data[i].name + "</td><td>" + data[i].id + "</td><td>" + data[i].author + "</td><td>" + data[i].page + "</td><td>" + data[i].source + "</td>";
 				tbody.appendChild(row);
 			}
-			$(document).ready(function(){
-				$("#mods-table").tablesorter({
-					theme : 'blue'
-				});
-			});
+
 		}
 	};
 	xhr.open("GET", "mods/examplemod.json", true);
