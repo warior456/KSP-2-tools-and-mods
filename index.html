@@ -25,9 +25,22 @@
 		<tbody></tbody>
 	</table>
 	<script>
-        $(function() {
             // Define the folder containing the JSON files to load
-            var folder = "mods";
+    var folder = "mods";
+      (async () => {
+        const response = await fetch('https://api.github.com/repos/warior456/KSP-2-tools-and-mods/contents/mods');
+        const data = await response.json();
+        let htmlString = '<ul>';
+        
+        for (let file of data) {
+          htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
+          print(htmlString)
+        }
+
+        htmlString += '</ul>';
+        document.getElementsByTagName('body')[0].innerHTML = htmlString;
+      })
+
 
             // Fetch the contents of the folder using AJAX
             $.ajax({
@@ -67,4 +80,11 @@
         });
     </script>
 </body>
+</html>
+
+
+<html>
+  <body>
+    
+  <body>
 </html>

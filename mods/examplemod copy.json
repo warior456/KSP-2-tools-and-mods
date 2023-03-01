@@ -1,5 +1,4 @@
-[
-    {
+{
     "name": "Example Mod 2",
     "id": "example_mod",
     "author": "cheese3660",
@@ -13,5 +12,4 @@
         }
     ],
     "source": "https://github.com/warior456/KSP-2-tools-and-mods"
-    }
-]
+}
