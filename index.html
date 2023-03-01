@@ -5,7 +5,7 @@
 	<title>KSP 2 tools and mods</title>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 	<script src="https://code.jquery.com/jquery-3.6.3.min.js"></script>
-	<script src="script.js"></script>
+
 	<link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -25,9 +25,49 @@
 		<tbody></tbody>
 	</table>
 	<script>
-	$(function() {
-		$("#mods-table").tablesorter();
-	  });
-	</script>
+        $(function() {
+            // Define the folder containing the JSON files to load
+            var folder = "data";
+
+            // Fetch the contents of the folder using AJAX
+            $.ajax({
+                url: folder,
+                success: function(data) {
+                    // Parse the HTML response into a jQuery object and extract the list of files
+                    var $html = $("<div>").html(data);
+                    var $files = $html.find("a").map(function() {
+                        return $(this).attr("href");
+                    }).get();
+
+                    // Loop through each file and load its contents using JSONP
+                    $.each($files, function(i, file) {
+                        // Only load files with a .json extension
+                        if (file.endsWith(".json")) {
+                            $.getJSON(folder + "/" + file + "?callback=?", function(data) {
+                                // Loop through the array of objects in the JSON data
+                                $.each(data, function(i, item) {
+                                    // Add each object's properties to a new row in the table
+                                    var $row = $("<tr>");
+                                    $row.append($("<td>").text(item.id));
+                                    $row.append($("<td>").text(item.name));
+                                    $row.append($("<td>").text(item.email));
+                                    $row.append($("<td>").text(item.age));
+                                    $("#myTable tbody").append($row);
+                                });
+                                // Refresh the tablesorter plugin after adding new rows
+                                $("#myTable").trigger("update");
+                            });
+                        }
+                    });
+                    // Initialize the tablesorter plugin after loading all JSON files
+                    $("#myTable").tablesorter({
+                        theme: "blue",
+                        widgets: ["zebra"],
+                        sortList: [[0,0]]
+                    });
+                }
+            });
+        });
+    </script>
 </body>
 </html>
