@@ -19,6 +19,7 @@ We currently only use the readme
 
 ## Mods
 
+- [AtmoSwitch](https://spacedock.info/mod/3285/AtmoSwitch) by munix
 - [BepInEx Space Warp Plugin](https://spacedock.info/mod/3277/BepInEx%20Space%20Warp%20Plugin) by The SpaceWarp Team
 - [Cheat Menu](https://spacedock.info/mod/3266/Cheats%20Menu) by ShadowDev
 - [Custom Flags](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
@@ -27,6 +28,7 @@ We currently only use the readme
 - [FPS Limiter](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
 - [Kerbal Joint Re-Reinforcement](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
 - [Kerbal Optimization Program (KOPMod)](https://github.com/elsantiF/KOPMod/releases) by elsantiF
+- [KerbalView](https://spacedock.info/mod/3286/KerbalView) by EloxZ
 - [KSP2-IVA](https://github.com/Mudkip909/KSP2-IVA) by Mudkip909
 - [KSP2Dev LogConsole](https://spacedock.info/mod/3283/KSP2Dev%20LogConsole) by ihsoft
 - [KSP Simple Steam Launch](https://github.com/R-T-B/KSSL) by R-T-B
