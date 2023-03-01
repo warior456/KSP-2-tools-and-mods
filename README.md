@@ -27,6 +27,7 @@ We currently only use the readme
 - [Kerbal Joint Re-Reinforcement](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
 - [Kerbal Optimization Program (KOPMod)](https://github.com/elsantiF/KOPMod/releases) by elsantiF
 - [KSP2-IVA](https://github.com/Mudkip909/KSP2-IVA) by Mudkip909
+- [KSP2Dev LogConsole](https://spacedock.info/mod/3283/KSP2Dev%20LogConsole) by ihsoft
 - [KSP Simple Steam Launch](https://github.com/R-T-B/KSSL) by R-T-B
 - [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
 - [Lazy Orbit](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
@@ -34,6 +35,7 @@ We currently only use the readme
 - [Maneuver Node Controller](https://spacedock.info/mod/3270/Maneuver%20Node%20Controller) by XYZ3211
 - [Micro Engineer](https://spacedock.info/mod/3282/Micro%20Engineer) by Micrologist
 - [NotEnoughShips](https://github.com/Xeloboyo/NotEnoughShips) by Xeloboyo
+- [P.A.IG.E-B-Gone](https://spacedock.info/mod/3280/P.A.I.G.E-B-Gone) by amahlaka
 - [Rendezvous Cheat](https://github.com/ABritInSpace/RendezvousCheat-KSP2) by ABritInSpace
 - [Small Debug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
 - [SpaceWarp loader for BepInEx](https://spacedock.info/mod/3265/SpaceWarp%20loader%20for%20BepInEx) by bbepis
