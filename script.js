@@ -12,11 +12,11 @@ window.onload = function() {
 			// Create a row for each JSON object and append it to the table body
 			for (var i = 0; i < data.length; i++) {
 				var row = document.createElement("tr");
-				row.innerHTML = "<td>" + data[i].id + "</td><td>" + data[i].name + "</td><td>" + data[i].email + "</td><td>" + data[i].age + "</td>";
+				row.innerHTML = "<td>" + data[i].name + "</td><td>" + data[i].id + "</td><td>" + data[i].author + "</td><td>" + data[i].page + "</td><td>" + data[i].source + "</td>";
 				tbody.appendChild(row);
 			}
 		}
 	};
-	xhr.open("GET", "data/data.json", true);
+	xhr.open("GET", "mods/data.json", true);
 	xhr.send();
 };
