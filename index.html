@@ -7,6 +7,19 @@
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js"></script>
 
 	<link rel="stylesheet" href="style.css">
+    <!-- Styling to make the every other row of table slightly different color-->
+    <style>
+        table tr:nth-child(even) {
+            background-color: #eee;
+        }
+        table tr:nth-child(odd) {
+            background-color: #fff;
+        }
+        table th {
+            background-color: #333;
+            color: white;
+        }
+    </style>
 </head>
 <body>
 	<div id="readme"></div>
@@ -25,46 +38,78 @@
 		<tbody></tbody>
 	</table>
 	<script>
-        $(function() {
-            // Define the folder containing the JSON files to load
-            var folder = "mods";
 
-            // Fetch the contents of the folder using AJAX
-            $.ajax({
-                url: folder,
-                success: function(mods) {
-                    // Parse the HTML response into a jQuery object and extract the list of files
-                    var $html = $("<div>").html(mods);
-                    var $files = $html.find("a").map(function() {
-                        return $(this).attr("href");
-                    }).get();
 
-                    // Loop through each file and load its contents using JSONP
-                    $.each($files, function(i, file) {
-                        // Only load files with a .json extension
-                        if (file.endsWith(".json")) {
-                            $.getJSON(folder + "/" + file + "?callback=?", function(data) {
-                                // Loop through the array of objects in the JSON data
-                                $.each(mods, function(i, item) {
-                                    // Add each object's properties to a new row in the table
-                                    var $row = $("<tr>");
-                                    $row.append($("<td>").text(item.name));
-                                    $("#myTable tbody").append($row);
-                                });
-                                // Refresh the tablesorter plugin after adding new rows
-                                $("#mods-table").trigger("update");
-                            });
-                        }
-                    });
-                    // Initialize the tablesorter plugin after loading all JSON files
-                    $("#mods-table").tablesorter({
-                        theme: "blue",
-                        widgets: ["zebra"],
-                        sortList: [[0,0]]
-                    });
-                }
-            });
-        });
+/*
+{
+    "name": "Example Mod 2",
+    "id": "example_mod",
+    "author": "cheese3660",
+    "loader": "space_warp",
+    "download_size": "300M",
+    "platforms": [
+        {
+            "name": "curseforge",
+            "link": "[Insert curseforge link]",
+            "download": "[Insert curseforge download]"
+        }
+    ],
+    "source": "https://github.com/warior456/KSP-2-tools-and-mods"
+}
+
+*/
+
+
+    $(function() {
+      (async () => {
+        const response = await fetch('https://api.github.com/repos/warior456/KSP-2-tools-and-mods/contents/mods');
+        const data = await response.json();
+        let htmlString = '<ul>';
+        
+        for (let file of data) {
+            let rawPath = file.download_url;
+            const fileContent = await fetch(rawPath);
+            const fileData = await fileContent.json();
+            console.log(fileData);
+            // find the table and add a row to it
+            var mod = fileData[0]
+            let table = document.getElementById("mods-table");
+            let row = table.insertRow(1);
+            let name = row.insertCell(0);
+            let description = row.insertCell(1);
+            let author = row.insertCell(2);
+            let page = row.insertCell(3);
+            let source = row.insertCell(4);
+            let modloader = row.insertCell(5);
+            name.innerHTML = mod.name;
+            description.innerHTML = mod.description;
+            author.innerHTML = mod.author;
+            modloader.innerHTML = mod.loader;
+            for (let platform of mod.platforms) {
+                page.innerHTML = page.innerHTML + "<br>" + platform.name + ": " + platform.link;
+            }
+            source.innerHTML = "<a href='" + mod.source + "'>Source</a>";
+
+        }
+      })();
+    });
+
+    // make the table sortable
+    $(document).ready(function() {
+      $("#mods-table").tablesorter();
+    });
+
+
+    
+
+
     </script>
 </body>
+</html>
+
+
+<html>
+  <body>
+    
+  <body>
 </html>
