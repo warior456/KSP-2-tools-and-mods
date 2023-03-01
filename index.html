@@ -27,14 +27,14 @@
 	<script>
         $(function() {
             // Define the folder containing the JSON files to load
-            var folder = "data";
+            var folder = "mods";
 
             // Fetch the contents of the folder using AJAX
             $.ajax({
                 url: folder,
-                success: function(data) {
+                success: function(mods) {
                     // Parse the HTML response into a jQuery object and extract the list of files
-                    var $html = $("<div>").html(data);
+                    var $html = $("<div>").html(mods);
                     var $files = $html.find("a").map(function() {
                         return $(this).attr("href");
                     }).get();
@@ -45,7 +45,7 @@
                         if (file.endsWith(".json")) {
                             $.getJSON(folder + "/" + file + "?callback=?", function(data) {
                                 // Loop through the array of objects in the JSON data
-                                $.each(data, function(i, item) {
+                                $.each(mods, function(i, item) {
                                     // Add each object's properties to a new row in the table
                                     var $row = $("<tr>");
                                     $row.append($("<td>").text(item.id));
@@ -55,12 +55,12 @@
                                     $("#myTable tbody").append($row);
                                 });
                                 // Refresh the tablesorter plugin after adding new rows
-                                $("#myTable").trigger("update");
+                                $("#mods-table").trigger("update");
                             });
                         }
                     });
                     // Initialize the tablesorter plugin after loading all JSON files
-                    $("#myTable").tablesorter({
+                    $("#mods-table").tablesorter({
                         theme: "blue",
                         widgets: ["zebra"],
                         sortList: [[0,0]]
