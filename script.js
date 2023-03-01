@@ -19,15 +19,13 @@ window.onload = function() {
 	};
 	xhr.open("GET", "mods/examplemod.json", true);
 	xhr.send();
+	// Send a GET request to retrieve the README file
 	var readmeXhr = new XMLHttpRequest();
 	readmeXhr.onreadystatechange = function() {
 		if (readmeXhr.readyState === 4 && readmeXhr.status === 200) {
-			// Convert the README markdown to HTML
-			var readmeHtml = marked(readmeXhr.responseText);
-
-			// Set the HTML content of the "readme" div
+			// Set the text content of the "readme" div to the raw markdown content
 			var readmeDiv = document.getElementById("readme");
-			readmeDiv.innerHTML = readmeHtml;
+			readmeDiv.textContent = readmeXhr.responseText;
 		}
 	};
 	readmeXhr.open("GET", "README.md", true);
