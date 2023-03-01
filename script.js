@@ -17,18 +17,22 @@ window.onload = function() {
 			}
 		}
 	};
-	xhr.open("GET", "mods/examplemod.json", true);
-	xhr.send();
 	// Send a GET request to retrieve the README file
 	var readmeXhr = new XMLHttpRequest();
 	readmeXhr.onreadystatechange = function() {
 		if (readmeXhr.readyState === 4 && readmeXhr.status === 200) {
-			// Set the text content of the "readme" div to the raw markdown content
+			// Convert the markdown content to HTML using marked.js
+			var markdown = readmeXhr.responseText;
+			var readmeHtml = marked(markdown);
+
+			// Set the innerHTML of the "readme" div to the HTML content
 			var readmeDiv = document.getElementById("readme");
-			readmeDiv.textContent = readmeXhr.responseText;
+			readmeDiv.innerHTML = readmeHtml;
 		}
 	};
 	readmeXhr.open("GET", "README.md", true);
 	readmeXhr.send();
 };
+
+
 
