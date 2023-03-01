@@ -20,6 +20,11 @@ window.onload = function() {
 	xhr.open("GET", "mods/examplemod.json", true);
 	xhr.send();
 
+	$(document).ready(function(){
+		$("#mods-table").tablesorter({
+			theme : 'blue'
+		});
+	});
 };
 
 
