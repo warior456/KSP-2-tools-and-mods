@@ -1,3 +1,7 @@
+body {
+	background-color: #303030;
+}
+
 table {
 	margin-top: 20px;
 	border-collapse: collapse;
@@ -11,7 +15,7 @@ th, td {
 }
 
 th {
-	background-color: #1d1d1d;
+	background-color: #303030;
 }
 
 #readme {
