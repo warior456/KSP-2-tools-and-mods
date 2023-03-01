@@ -17,6 +17,9 @@ window.onload = function() {
 			}
 		}
 	};
+	xhr.open("GET", "mods/examplemod.json", true);
+	xhr.send();
+
 	// Send a GET request to retrieve the README file
 	var readmeXhr = new XMLHttpRequest();
 	readmeXhr.onreadystatechange = function() {
