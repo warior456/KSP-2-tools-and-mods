@@ -21,11 +21,10 @@ window.onload = function() {
 	var readmeXhr = new XMLHttpRequest();
 	readmeXhr.onreadystatechange = function() {
 		if (readmeXhr.readyState === 4 && readmeXhr.status === 200) {
-			// Convert the markdown content to HTML using marked.js
-			var markdown = readmeXhr.responseText;
-			var readmeHtml = marked(markdown);
+			// Convert the README markdown to HTML
+			var readmeHtml = marked(readmeXhr.responseText);
 
-			// Set the innerHTML of the "readme" div to the HTML content
+			// Set the HTML content of the "readme" div
 			var readmeDiv = document.getElementById("readme");
 			readmeDiv.innerHTML = readmeHtml;
 		}
