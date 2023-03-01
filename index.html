@@ -48,10 +48,7 @@
                                 $.each(mods, function(i, item) {
                                     // Add each object's properties to a new row in the table
                                     var $row = $("<tr>");
-                                    $row.append($("<td>").text(item.id));
                                     $row.append($("<td>").text(item.name));
-                                    $row.append($("<td>").text(item.email));
-                                    $row.append($("<td>").text(item.age));
                                     $("#myTable tbody").append($row);
                                 });
                                 // Refresh the tablesorter plugin after adding new rows
