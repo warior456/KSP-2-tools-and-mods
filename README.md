@@ -23,6 +23,7 @@ We currently only use the readme
 - [Cheat Menu](https://spacedock.info/mod/3266/Cheats%20Menu) by ShadowDev
 - [Custom Flags](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
 - [CustomFlagLoader](https://forum.kerbalspaceprogram.com/index.php?/topic/212988-customflagloader-load-custom-flags/) by bbepis
+- [Draft Your Viewers 2](https://github.com/Nifty255/DraftYourViewers2/releases) by Nifty255
 - [FPS Limiter](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
 - [Kerbal Joint Re-Reinforcement](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
 - [Kerbal Optimization Program (KOPMod)](https://github.com/elsantiF/KOPMod/releases) by elsantiF
