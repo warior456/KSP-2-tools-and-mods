@@ -20,21 +20,21 @@ We currently only use the readme
 ## Mods
 
 - [AtmoSwitch](https://spacedock.info/mod/3285/AtmoSwitch) by munix
-- [Better Parts Manager](https://spacedock.info/mod/3292/Better%20Parts%20Manager) by ShadowDev
 - [BepInEx Space Warp Plugin](https://spacedock.info/mod/3277/BepInEx%20Space%20Warp%20Plugin) by The SpaceWarp Team
+- [Better Parts Manager](https://spacedock.info/mod/3292/Better%20Parts%20Manager) by ShadowDev
 - [Celestial Teleport Rendezvous](https://spacedock.info/mod/3290/Celestial%20Teleport%20Rendezvous) by Dudekahedron
 - [Cheat Menu](https://spacedock.info/mod/3266/Cheats%20Menu) by ShadowDev
 - [Custom Flags](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
 - [CustomFlagLoader](https://forum.kerbalspaceprogram.com/index.php?/topic/212988-customflagloader-load-custom-flags/) by bbepis
 - [Draft Your Viewers 2](https://github.com/Nifty255/DraftYourViewers2/releases) by Nifty255
 - [FPS Limiter](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
+- [KSP Simple Steam Launch](https://github.com/R-T-B/KSSL) by R-T-B
+- [KSP2-IVA](https://github.com/Mudkip909/KSP2-IVA) by Mudkip909
+- [KSP2Dev LogConsole](https://spacedock.info/mod/3283/KSP2Dev%20LogConsole) by ihsoft
 - [Kerbal Joint Re-Reinforcement](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
 - [Kerbal Optimization Program (KOPMod)](https://github.com/elsantiF/KOPMod/releases) by elsantiF
 - [KerbalPatchProgram](https://spacedock.info/mod/3278/KerbalPatchProgram) by miniroo321
 - [KerbalView](https://spacedock.info/mod/3286/KerbalView) by EloxZ
-- [KSP2-IVA](https://github.com/Mudkip909/KSP2-IVA) by Mudkip909
-- [KSP2Dev LogConsole](https://spacedock.info/mod/3283/KSP2Dev%20LogConsole) by ihsoft
-- [KSP Simple Steam Launch](https://github.com/R-T-B/KSSL) by R-T-B
 - [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
 - [Lazy Orbit](https://spacedock.info/mod/3258/Lazy%20Orbit) by Halban
 - [Less Wobbly](https://spacedock.info/mod/3267/Less%20Wobbly) by linuxgurugamer
