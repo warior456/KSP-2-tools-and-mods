@@ -13,8 +13,8 @@
     "platforms": [
         {
             "name": "spacedock",
-            "link": "[Insert curseforge link]",
-            "download": "[Insert curseforge download]"
+            "link": "[Insert spacedock link]",
+            "download": "[Insert spacedock download]"
         }
     ],
     "loader": "space_warp, bepinex or official"
