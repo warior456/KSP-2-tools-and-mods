@@ -20,7 +20,9 @@ We currently only use the readme
 ## Mods
 
 - [AtmoSwitch](https://spacedock.info/mod/3285/AtmoSwitch) by munix
+- [Better Parts Manager](https://spacedock.info/mod/3292/Better%20Parts%20Manager) by ShadowDev
 - [BepInEx Space Warp Plugin](https://spacedock.info/mod/3277/BepInEx%20Space%20Warp%20Plugin) by The SpaceWarp Team
+- [Celestial Teleport Rendezvous](https://spacedock.info/mod/3290/Celestial%20Teleport%20Rendezvous) by Dudekahedron
 - [Cheat Menu](https://spacedock.info/mod/3266/Cheats%20Menu) by ShadowDev
 - [Custom Flags](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
 - [CustomFlagLoader](https://forum.kerbalspaceprogram.com/index.php?/topic/212988-customflagloader-load-custom-flags/) by bbepis
@@ -28,6 +30,7 @@ We currently only use the readme
 - [FPS Limiter](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
 - [Kerbal Joint Re-Reinforcement](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
 - [Kerbal Optimization Program (KOPMod)](https://github.com/elsantiF/KOPMod/releases) by elsantiF
+- [KerbalPatchProgram](https://spacedock.info/mod/3278/KerbalPatchProgram) by miniroo321
 - [KerbalView](https://spacedock.info/mod/3286/KerbalView) by EloxZ
 - [KSP2-IVA](https://github.com/Mudkip909/KSP2-IVA) by Mudkip909
 - [KSP2Dev LogConsole](https://spacedock.info/mod/3283/KSP2Dev%20LogConsole) by ihsoft
@@ -45,6 +48,7 @@ We currently only use the readme
 - [StageInfo](https://spacedock.info/mod/3272/Stage%20Info) by natalia_simonova
 - [Sticky Orbit Markers](https://spacedock.info/mod/3264/Sticky%20Orbit%20Markers) by munix
 - [TimeWarpUnlock](https://spacedock.info/mod/3274/TimeWarpUnlock) by miniroo321
+- [UI Scaler](https://spacedock.info/mod/3291/UI%20Scaler) by Halban
 - [Unity Explorer for Space Warp](https://spacedock.info/mod/3268/Unity%20Explorer%20for%20Space%20Warp) by cheese3660
 - [WASD For VAB](https://spacedock.info/mod/3276/WASD%20For%20VAB) by ArchLinus
 
