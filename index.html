@@ -72,7 +72,7 @@
             const fileData = await fileContent.json();
             console.log(fileData);
             // find the table and add a row to it
-            var mod = fileData[0]
+            var mod = fileData
             let table = document.getElementById("mods-table");
             let row = table.insertRow(1);
             let name = row.insertCell(0);
