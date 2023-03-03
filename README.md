@@ -54,3 +54,4 @@ We currently only use the readme but we now have an experimental json system too
 
 ## Tools
 - [KSP2 Save Viewer](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
+- [Asset Ripper](https://github.com/AssetRipper/AssetRipper) by ds5678
