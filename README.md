@@ -50,7 +50,7 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
   - Unlocks the time warp control to allow maximum timewarp at all times. 
 - [Transfer Calculator](https://github.com/ABritInSpace/TransferCalculator-KSP2) by ABritInSpace
   - A map view info dialog for planning interplanetary transfers
--  [UI Scaler](https://spacedock.info/mod/3291/UI%20Scaler) by Halban
+- [UI Scaler](https://spacedock.info/mod/3291/UI%20Scaler) by Halban
   - Change the size of the game's user interface via a slider in the settings menu. 
 - [WASD For VAB](https://spacedock.info/mod/3276/WASD%20For%20VAB) by ArchLinus
   - Control the VAB camera using WASD 
