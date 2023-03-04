@@ -6,13 +6,15 @@ Stuff will almost certainly break over time, so if you find anything it'd be gre
 If you find a mod that isn't on the list please let us know or open a pull request <br>
 If you want to add/remove a mod/tool, feel free to just make a pull request or open an issue with the mod/tool name, author and link
 
-## Mods
-
 ### Contents
-- [Quality Of Life](#quality-of-life)
-- [Performance](#performance)
-- [Cheats](#cheats)
-- [Other](#other)
+- [Mods](#mods)
+  - [Quality Of Life](#quality-of-life)
+  - [Performance](#performance)
+  - [Cheats](#cheats)
+  - [Other](#other)
+- [Modloaders](#mod-loaders)
+- [Tools](#tools)
+## Mods
 
 ### Quality Of Life
 - [AtmoSwitch](https://spacedock.info/mod/3285/AtmoSwitch) by munix
