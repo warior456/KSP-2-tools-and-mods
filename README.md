@@ -61,8 +61,9 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
 - [FPS Limiter](https://spacedock.info/mod/3259/FPS%20Limiter) by innocuous
   - Limits your FPS! 
 - [Kerbal Optimization Program (KOPMod)](https://github.com/elsantiF/KOPMod) by elsantiF
+  - A slightly serious attempt at making the game more playable without breaking everything
 - [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
-  - A mod aimed at improving performance.
+  - A modthat removes the game for improving performance.
 
 ### Cheats
 - [Celestial Teleport Rendezvous](https://spacedock.info/mod/3290/Celestial%20Teleport%20Rendezvous) by Dudekahedron
