@@ -21,6 +21,8 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
   - Allows you to switch vessels while moving within the atmosphere!
 - [Better Parts Manager](https://spacedock.info/mod/3292/Better%20Parts%20Manager) by ShadowDev
   - Do you hate the ingame parts manager and want a KSP1 style parts manager? This is for you!
+- [CommunityFixes](https://github.com/Bit-Studios/CommunityFixes) by Bit-Studios
+  -This project aims to bring together community bug fixes for Kerbal Space Program 2 in one centralized place.
 - [Custom Flags](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
   - Adds the ability to add custom flags
 - [CustomFlagLoader](https://forum.kerbalspaceprogram.com/index.php?/topic/212988-customflagloader-load-custom-flags/) by bbepis
@@ -31,7 +33,7 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
 - [Kerbal Joint Re-Reinforcement](https://github.com/penumbra779/Kerbal-Joint-Re-Reinforcement) by Penumbra
   - Modifies joint rigidity and attachment stiffness to improve upon wobbly craft
 - [KerbalPatchProgram](https://spacedock.info/mod/3278/KerbalPatchProgram) by miniroo321
-  - A collection of bug fixes for KSP2. 
+  - A collection of bug fixes for KSP2.
 - [KerbalView](https://spacedock.info/mod/3286/KerbalView) by EloxZ
   - Enables First Person View in KSP2 
 - [Less Wobbly](https://spacedock.info/mod/3267/Less%20Wobbly) by linuxgurugamer
