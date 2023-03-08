@@ -2,6 +2,8 @@
 ### Simple list of all (currently available) tools and mods for KSP2
 Stuff will almost certainly break over time, so if you find anything it'd be great to tell someone in the [modding discord](https://discord.gg/3D7Yj9SJ8n) or make a pull request fixing it
 
+#this repo is in need of someone to update it, for now updates will be less frequent
+
 ## Contributing
 If you find a mod that isn't on the list please let us know or open a pull request <br>
 If you want to add/remove a mod/tool, feel free to just make a pull request or open an issue with the mod/tool name, author and link
