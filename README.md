@@ -21,7 +21,7 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
 ### Quality Of Life
 - [AtmoSwitch](https://spacedock.info/mod/3285/AtmoSwitch) by munix
   - Allows you to switch vessels while moving within the atmosphere!
--[Auto Burn](https://spacedock.info/mod/3300/Auto%20Burn) by cheese3660
+- [Auto Burn](https://spacedock.info/mod/3300/Auto%20Burn) by cheese3660
   - A space warp mod for auto completing maneuver nodes
 - [Better Parts Manager](https://spacedock.info/mod/3292/Better%20Parts%20Manager) by ShadowDev
   - Do you hate the ingame parts manager and want a KSP1 style parts manager? This is for you!
@@ -49,7 +49,9 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
 - [NotEnoughShips](https://github.com/Xeloboyo/NotEnoughShips) by Xeloboyo
   - Spawn saved ships near your current vessel
 - [P.A.I.G.E-B-Gone](https://spacedock.info/mod/3280/P.A.I.G.E-B-Gone) by amahlaka
-  - Disables Tutorial by default and mutes P.A.I.G.E 
+  - Disables Tutorial by default and mutes P.A.I.G.E
+- [Resonant Orbit Calculator](https://spacedock.info/mod/3332/Resonant%20Orbit%20Calculator) by schlosrat
+  - Calculate resonant orbits suitable for deploying constellations of satellites
 - [StageInfo](https://spacedock.info/mod/3272/Stage%20Info) by natalia_simonova
   - Popup window that displays staging information 
 - [Sticky Orbit Markers](https://spacedock.info/mod/3264/Sticky%20Orbit%20Markers) by munix
