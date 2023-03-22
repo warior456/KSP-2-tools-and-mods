@@ -25,6 +25,8 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
   - A space warp mod for auto completing maneuver nodes
 - [Better Parts Manager](https://spacedock.info/mod/3292/Better%20Parts%20Manager) by ShadowDev
   - Do you hate the ingame parts manager and want a KSP1 style parts manager? This is for you!
+- [Burn Controller](https://spacedock.info/mod/3330/Burn%20Controller) by JohnsterSpaceProgram
+  - Lets you set up engine burns.
 - [CommunityFixes](https://spacedock.info/mod/3301/Community%20Fixes) by Bit-Studios
   - This project aims to bring together community bug fixes for Kerbal Space Program 2 in one centralized place.
 - [Custom Flags](https://spacedock.info/mod/3262/Custom%20Flags) by adamsogm
@@ -71,7 +73,7 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
 - [Kerbal Optimization Program (KOPMod)](https://github.com/elsantiF/KOPMod) by elsantiF
   - A slightly serious attempt at making the game more playable without breaking everything
 - [LagRemover](https://spacedock.info/mod/3256/LagRemover) by RadioArtz
-  - A modthat removes the game for improving performance.
+  - A mod that removes the game for improving performance.
 
 ### Cheats
 - [Celestial Teleport Rendezvous](https://spacedock.info/mod/3290/Celestial%20Teleport%20Rendezvous) by Dudekahedron
@@ -87,6 +89,8 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
 ### Other
 - [Draft Your Viewers 2](https://github.com/Nifty255/DraftYourViewers2) by Nifty255
   - Don't want to strand Jeb in space? Strand your viewers instead!
+- [Kalkulator](https://spacedock.info/mod/3327/Kalkulator) by JohnsterSpaceProgram
+  - Adds a basic calculator with addition, subtraction, multiplication, and division functionality.
 - [KSP2Dev LogConsole](https://spacedock.info/mod/3283/KSP2Dev%20LogConsole) by ihsoft
   - Advanced console to access the in-game logs 
 - [Small Debug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
@@ -103,3 +107,5 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
 ## Tools
 - [Asset Ripper](https://github.com/AssetRipper/AssetRipper) by ds5678
 - [KSP2 Save Viewer](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
+- [Galaxy Tweaker](https://spacedock.info/mod/3331/Galaxy%20Tweaker) by Hyperion_21
+  - A galaxy configuerer that allows for modification and usage of custom GalaxyDefinition files, allowing users to tweak the galaxy.
