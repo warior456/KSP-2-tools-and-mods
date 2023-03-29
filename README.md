@@ -91,6 +91,8 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
   - Don't want to strand Jeb in space? Strand your viewers instead!
 - [Kalkulator](https://spacedock.info/mod/3327/Kalkulator) by JohnsterSpaceProgram
   - Adds a basic calculator with addition, subtraction, multiplication, and division functionality.
+- [kRPC2](https://spacedock.info/mod/3322/kRPC2) by djungelorm
+  - kRPC2 allows you to control Kerbal Space Program 2 from scripts running outside of the game, and comes with client libraries for many popular languages.
 - [KSP2Dev LogConsole](https://spacedock.info/mod/3283/KSP2Dev%20LogConsole) by ihsoft
   - Advanced console to access the in-game logs 
 - [Small Debug Window](https://spacedock.info/mod/3263/Small%20Debug%20Window) by sea_x
