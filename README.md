@@ -104,6 +104,7 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
 ## Mod Loaders
 - [BepInEx](https://spacedock.info/mod/3255/BepInEx%20for%20KSP%202) by bbepis
 - [BepInEx SpaceWarp Plugin](https://spacedock.info/mod/3277/BepInEx%20Space%20Warp%20Plugin) by The SpaceWarp Team
+  - Running under Linux? Also check [these notes](https://docs.bepinex.dev/articles/advanced/proton_wine.html) for Proton/Wine support.
 - [SpaceWarp](https://github.com/X606/SpaceWarp) by The SpaceWarp Team
 
 ## Tools
