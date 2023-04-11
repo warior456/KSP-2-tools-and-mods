@@ -112,3 +112,5 @@ If you want to add/remove a mod/tool, feel free to just make a pull request or o
 - [KSP2 Save Viewer](https://ksp-2-save-viewer.likesdinosaurs.com/) by Rodentman87
 - [Galaxy Tweaker](https://spacedock.info/mod/3331/Galaxy%20Tweaker) by Hyperion_21
   - A galaxy configuerer that allows for modification and usage of custom GalaxyDefinition files, allowing users to tweak the galaxy.
+- [ShowKSP2Events](https://github.com/Falki-git/ShowKSP2Events) by Falki
+  - Shows events triggered by KSP2. This is a mod to help modders mod.
